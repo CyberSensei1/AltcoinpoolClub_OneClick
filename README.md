@@ -6,4 +6,4 @@ This program allow windows users to auto mining with https://www.altcoinpool.clu
 Program using avermore and nevermode miner for amd and nvidia system.
 
 
-(http://i64.tinypic.com/308kyf4.png)
+(https://raw.githubusercontent.com/CyberSensei1/AltcoinpoolClub_OneClick/master/oneclick.png)
