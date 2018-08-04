@@ -11,11 +11,19 @@ Program using avermore and nevermode miner for amd and nvidia system.
 
 
 Current supported coins;
--![a](https://altcoinpool.club/images/coin-2008.png =20x20)Adeptio
--![a](https://altcoinpool.club/images/coin-2011.png =20x20)FuturoCoin
--![a](https://altcoinpool.club/images/coin-2016.png =20x20)Gravium
--![a](https://altcoinpool.club/images/coin-2062.png =20x20)MMOCoin
--![a](https://altcoinpool.club/images/coin-2007.png =20x20)MOGWAI
--![a](https://altcoinpool.club/images/coin-1433.png =20x20)Motion
--![a](https://altcoinpool.club/images/coin-2010.png =20x20)Privcy
--![a](https://altcoinpool.club/images/coin-2065.png =20x20)Stakecube
+
+<img src="https://altcoinpool.club/images/coin-2008.png" height="20" width="20">Adeptio
+
+<img src="https://altcoinpool.club/images/coin-2011.png" height="20" width="20">FuturoCoin
+
+<img src="https://altcoinpool.club/images/coin-2016.png" height="20" width="20">Gravium
+
+<img src="https://altcoinpool.club/images/coin-2062.png" height="20" width="20">MMOCoin
+
+<img src="https://altcoinpool.club/images/coin-2007.png" height="20" width="20">MOGWAI
+
+<img src="https://altcoinpool.club/images/coin-1433.png" height="20" width="20">Motion
+
+<img src="https://altcoinpool.club/images/coin-2010.png" height="20" width="20">Privcy
+
+<img src="https://altcoinpool.club/images/coin-2065.png" height="20" width="20">Stakecube
